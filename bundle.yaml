@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cbj-ci-pp-dev-controller"
+description: "CloudBees CI configuration bundle for the cbj-ci-pp dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cbj-ci-pp/dev-controller"
+parent: "base"
